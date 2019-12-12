@@ -1,5 +1,5 @@
 name:
-   first: Urvish
-   last: Desai
-email: urvish@nyu.edu
+   first: William
+   last: Jiang
+email: wj419@nyu.edu
 leaderboard: Baseline
